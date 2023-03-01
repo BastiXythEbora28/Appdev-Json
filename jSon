@@ -1,0 +1,20 @@
+{
+    "array1": 
+    [
+        {
+            "full_name": "Cbastien Xyth V. Ebora",
+            "age":  22,
+            "your_quotes": "A Lion Doesnt Give a Damn about the Sheeps Opinion"
+        }
+    ],
+    "array2":
+    [
+        {
+            "section": "BSIT 3A",
+            "code": "T221",
+            "email": "200102621@student.buksu.edu.ph"
+        }
+
+    ]
+    
+}
